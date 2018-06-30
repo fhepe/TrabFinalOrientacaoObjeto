@@ -1,0 +1,8 @@
+3.) (1 ponto) Existem algumas maneiras de restringir o acesso a atributos e métodos, três delas
+são as mais conhecidas, cite quais são e qual a diferença entre elas.
+
+        Private: Somente a classe que declara pode acessar
+
+        Protected: Somente a classe que declara e suas filhas podem acessar
+
+        Public: Pode ser acessado por todas as classes.

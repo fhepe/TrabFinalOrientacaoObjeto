@@ -1,0 +1,5 @@
+5.) (1 ponto) A programação orientada a objetos é baseada em diversos conceitos, tais como
+encapsulamento, herança, polimorfismo e abstração. Com relação a esses conceitos, assinale
+com V para verdadeiro e F para Falso as alternativas abaixo:
+
+F, F, F, V, F

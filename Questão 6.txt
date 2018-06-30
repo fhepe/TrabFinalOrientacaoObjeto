@@ -1,0 +1,4 @@
+6.) (1 ponto) Para representar quais técnicas da orientação a objeto é utilizada as palavras
+reservadas implements e extends?
+
+Herança e polimorfismo.

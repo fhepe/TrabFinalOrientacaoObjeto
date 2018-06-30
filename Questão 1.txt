@@ -1,0 +1,6 @@
+1.) (1 ponto) Assinale a alternativa correta sobre a orientação a objeto:
+
+c) O polimorfismo associado à herança trabalha com a redeclaração de métodos
+previamente herdados por uma classe. Esses métodos, embora semelhantes, diferem de
+alguma forma da implementação utilizada na superclasse, sendo necessário, portanto,
+reimplementá-los na subclasse.

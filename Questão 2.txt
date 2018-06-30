@@ -1,0 +1,4 @@
+2.) (1 ponto) Polimorfismo é: (assinale a alternativa correta)
+
+e) e) a habilidade pela qual uma única operação ou nome de atributo pode ser definido em
+mais de uma classe e assumir implementações diferentes em cada uma dessas classes.

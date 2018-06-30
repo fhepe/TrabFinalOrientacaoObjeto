@@ -1,0 +1,5 @@
+4.) (1 ponto) Com relação aos conceitos de programação orientada a objetos, é correto afirmar
+que:
+
+b) métodos estáticos são aqueles que, ao serem executados, não acessam atributos de
+instância da classe
